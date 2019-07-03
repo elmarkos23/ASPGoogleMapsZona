@@ -1,0 +1,3 @@
+GoogleMaps.LatLng, GoogleMaps, Version=8.0.0.0, Culture=neutral, PublicKeyToken=null
+GoogleMaps.Overlays.GooglePolygon, GoogleMaps, Version=8.0.0.0, Culture=neutral, PublicKeyToken=null
+GoogleMaps.GoogleMap, GoogleMaps, Version=8.0.0.0, Culture=neutral, PublicKeyToken=null
